@@ -1950,7 +1950,43 @@
   "week_2026_6_15_custom": [],
   "week_2026_6_20_custom": [],
   "week_2026_6_22": {},
-  "week_2026_6_11_custom": [],
+  "week_2026_6_11_custom": [
+    {
+      "t": "",
+      "p": "",
+      "a": "",
+      "pc": "#ffffff",
+      "ac": "#ffffff"
+    },
+    {
+      "t": "",
+      "p": "",
+      "a": "",
+      "pc": "#fff2cc",
+      "ac": "#ffffff"
+    },
+    {
+      "t": "",
+      "p": "",
+      "a": "",
+      "pc": "#e9fde2",
+      "ac": "#ffffff"
+    },
+    {
+      "t": "",
+      "p": "",
+      "a": "",
+      "pc": "#e3f2fd",
+      "ac": "#ffffff"
+    },
+    {
+      "t": "",
+      "p": "",
+      "a": "",
+      "pc": "#dfdcf9",
+      "ac": "#ffffff"
+    }
+  ],
   "year_tabs_2029": [
     {
       "id": "tab0",
